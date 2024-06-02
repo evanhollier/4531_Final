@@ -3,3 +3,4 @@ dataset-iiit-pet-master
 best_model.keras
 global_best_model.keras
 damaged
+own_data
